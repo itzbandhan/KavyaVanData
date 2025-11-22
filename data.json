@@ -5,7 +5,6 @@
     "driver_contact": "9841235929",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "C",
       "Dekocha (Kamalbinayak)",
       "Kamalbinayak, Bhaktapur",
       "KamalBinayak (Bata 1 KM Mathi)- Bhatkeyako pati",
@@ -23,10 +22,9 @@
   "2": {
     "route_name": "Duwakot-Dudhpati-Sallaghari Route",
     "driver_name": "Lok Bdr.",
-    "driver_contact": "- 9808256360",
-    "school_contact": "-9801066771, 9802356792",
+    "driver_contact": "9808256360",
+    "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "C",
       "Duwakot KMC",
       "Siddhapokhari, Bhaktapur",
       "Sallaghari, Bhaktapur",
@@ -43,10 +41,9 @@
   "3": {
     "route_name": "Sirutar- Bhaktapur",
     "driver_name": "Dipak Bhandari",
-    "driver_contact": "- 9843666114",
-    "school_contact": "-9801066771, 9802356792",
+    "driver_contact": "9843666114",
+    "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "C",
       "Sirutar, Bhaktapur",
       "Balkot,Banglamukhi Sakari",
       "Kausaltar",
@@ -63,9 +60,8 @@
     "route_name": "ROUTE NO: 4",
     "driver_name": "Dipesh Tamang",
     "driver_contact": "9702661294",
-    "school_contact": "-9801066771, 9802356792",
+    "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "C",
       "Sanogaun Chowk, Siddhipur School",
       "Dhungasangu Chowk/(Near by Pawan Prakriti School), Imadol",
       "Imadol, Rajkulo Chowk (Krishna Mandir)",
@@ -85,10 +81,9 @@
   "5": {
     "route_name": "Harisiddhi",
     "driver_name": "Amit Devkota",
-    "driver_contact": "-     9821490349",
-    "school_contact": "-9801066771, 9802356792",
+    "driver_contact": "9821490349",
+    "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "C",
       "Satdobato",
       "City escape housing society",
       "Godawari",
@@ -106,10 +101,9 @@
   "6": {
     "route_name": "Dholahiti-Nakhipot",
     "driver_name": "Ajay Shrestha",
-    "driver_contact": "-     9762871720",
-    "school_contact": "-9801066771, 9802356792",
+    "driver_contact": "9762871720",
+    "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "C",
       "Dholahiti, Adarsha tole",
       "Nakhipot, Tikedewar",
       "Nakhipot",
@@ -125,9 +119,8 @@
     "route_name": "Bhaisepati",
     "driver_name": "Sagar Tamang",
     "driver_contact": "9813866781",
-    "school_contact": "-9801066771, 9802356792",
+    "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "C",
       "Bhaisapatti, Radionepal Tower Karyavinayak",
       "Bhaisipati, Khokana Dobato",
       "Bhaisipati, Magar Gaun",
@@ -147,9 +140,8 @@
     "route_name": "ROUTE NO: 8",
     "driver_name": "Shajeev Shrestha",
     "driver_contact": "N/A",
-    "school_contact": "-9801066771, 9802356792",
+    "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "C",
       "Naikap, Kalanki- Sipradi Trading",
       "Kalanki",
       "Tahachal",
@@ -165,9 +157,8 @@
     "route_name": "ROUTE NO: 9",
     "driver_name": "Dorje Khandu Bhutiya",
     "driver_contact": "N/A",
-    "school_contact": "-9801066771, 9802356792",
+    "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "C",
       "Ramkot (Taukhel-Kota devi Marg)",
       "Setoghar, Ramkot Sitapaila",
       "Dada pauwal, Sitapaila, Kathmandu",
@@ -186,9 +177,8 @@
     "route_name": "ROUTE NO: 10 Balaju-Banasthali",
     "driver_name": "N/A",
     "driver_contact": "N/A",
-    "school_contact": "-9801066771, 9802356792",
+    "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "C",
       "Dhungedhara,",
       "Radha Krishna Mandir, Banasthali",
       "Bansthali",
@@ -210,9 +200,8 @@
     "route_name": "Driver Name : Nirmal Achhami",
     "driver_name": "Nirmal Achhami",
     "driver_contact": "N/A",
-    "school_contact": "-9801066771, 9802356792",
+    "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "C",
       "Manamaiju bridge, Tarkeshwor",
       "Nepaltar bridge, Tarkeshwor",
       "Bansathali Chowk- (Chaumati)",
@@ -231,7 +220,6 @@
     "driver_contact": "9862436193",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "C",
       "Suryadarshan Height,Grandy Hospital",
       "Bhatkeko PulSuryadarshan Height",
       "Indreni Pul, Jalpa Chowk,Tokha",
