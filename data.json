@@ -5,18 +5,16 @@
     "driver_contact": "9841235929",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Dekocha (Kamalbinayak)",
-      "Kamalbinayak, Bhaktapur",
-      "KamalBinayak (Bata 1 KM Mathi)- Bhatkeyako pati",
-      "Kamalbinayak (Town planning)",
-      "SuryaVinayak, Bhaktapur (Pipalbot)",
-      "SuryaVinayak (Ganesh Mandir Jani Bato ma)",
-      "Suryabinayak, Ghalate Chowk",
-      "SuryaVinayak Tourism Market",
-      "Suryabinayak, Ganeshthan",
-      "Siddhapokhari, Bhaktapur",
-      "Kamalyabinayak, Bhatkeyako pati",
-      "Bhaktapur, Katunje"
+      {
+        "name": "Kamalbinayak, Bhaktapur",
+        "latitude": "27.6795686",
+        "longitude": "85.4427224"
+      },
+      {
+        "name": "Siddhapokhari, Bhaktapur",
+        "latitude": "27.6719292",
+        "longitude": "85.4204154"
+      }
     ]
   },
   "2": {
@@ -25,17 +23,56 @@
     "driver_contact": "9808256360",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Duwakot KMC",
-      "Siddhapokhari, Bhaktapur",
-      "Sallaghari, Bhaktapur",
-      "Sallaghari",
-      "Srijananagar, Bhaktapur",
-      "New Thimi (SS Chowk)",
-      "Gatthaghar, Bhaktapur",
-      "Gatthaghar",
-      "Gathaghar",
-      "Lokanthali",
-      "Radhe Radhe"
+      {
+        "name": "Duwakot KMC",
+        "latitude": "27.6840469",
+        "longitude": "85.4107489"
+      },
+      {
+        "name": "Siddhapokhari, Bhaktapur",
+        "latitude": "27.6719292",
+        "longitude": "85.4204154"
+      },
+      {
+        "name": "Sallaghari, Bhaktapur",
+        "latitude": "27.6732650",
+        "longitude": "85.4073497"
+      },
+      {
+        "name": "Sallaghari",
+        "latitude": "27.3875155",
+        "longitude": "85.0664124"
+      },
+      {
+        "name": "Srijananagar, Bhaktapur",
+        "latitude": "27.6729379",
+        "longitude": "85.4039516"
+      },
+      {
+        "name": "Gatthaghar, Bhaktapur",
+        "latitude": "27.6739136",
+        "longitude": "85.3739132"
+      },
+      {
+        "name": "Gatthaghar",
+        "latitude": "27.6739136",
+        "longitude": "85.3739132"
+      },
+      {
+        "name": "Gathaghar",
+        "latitude": "27.6749706",
+        "longitude": "85.3743488"
+      },
+      {
+        "name": "Lokanthali",
+        "latitude": "27.6741962",
+        "longitude": "85.3592216"
+      },
+      {
+        "name": "Radhe Radhe",
+        "latitude": "27.6761760",
+        "longitude": "85.3992454"
+      }
     ]
   },
   "3": {
@@ -44,16 +81,36 @@
     "driver_contact": "9843666114",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Sirutar, Bhaktapur",
-      "Balkot,Banglamukhi Sakari",
-      "Kausaltar",
-      "Gatthaghar",
-      "Lokanthali, Bhaktapur",
-      "Jaributi",
-      "BP Eye Care, Jadibuti",
-      "Balkot",
-      "Balkot, Police Station",
-      "Madhyapur Thimi"
+      {
+        "name": "Sirutar, Bhaktapur",
+        "latitude": "27.6557560",
+        "longitude": "85.3749310"
+      },
+      {
+        "name": "Kausaltar",
+        "latitude": "27.6745787",
+        "longitude": "85.3642978"
+      },
+      {
+        "name": "Gatthaghar",
+        "latitude": "27.6739136",
+        "longitude": "85.3739132"
+      },
+      {
+        "name": "Lokanthali, Bhaktapur",
+        "latitude": "27.6741962",
+        "longitude": "85.3592216"
+      },
+      {
+        "name": "Balkot",
+        "latitude": "27.9706038",
+        "longitude": "83.2442504"
+      },
+      {
+        "name": "Madhyapur Thimi",
+        "latitude": "27.6786495",
+        "longitude": "85.3983025"
+      }
     ]
   },
   "4": {
@@ -62,20 +119,21 @@
     "driver_contact": "9702661294",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Sanogaun Chowk, Siddhipur School",
-      "Dhungasangu Chowk/(Near by Pawan Prakriti School), Imadol",
-      "Imadol, Rajkulo Chowk (Krishna Mandir)",
-      "Imadol Rata Makai Chowk",
-      "Imadol rata makai Chowk.",
-      "Imadol (Kist Hospital)",
-      "Sitapakha, Imadol",
-      "Imadol",
-      "Narkate Chowk, Lubhoo",
-      "Tikathali (Near Prakiti School)",
-      "Downtown Residency, Imadol",
-      "Kist Hospital",
-      "Tikathali, Balkot-Ward Office",
-      "Krishna Mandir, Gwarko"
+      {
+        "name": "Imadol",
+        "latitude": "27.6668220",
+        "longitude": "85.3442990"
+      },
+      {
+        "name": "Kist Hospital",
+        "latitude": "27.6631009",
+        "longitude": "85.3352595"
+      },
+      {
+        "name": "Krishna Mandir, Gwarko",
+        "latitude": "27.6617887",
+        "longitude": "85.3427092"
+      }
     ]
   },
   "5": {
@@ -84,18 +142,36 @@
     "driver_contact": "9821490349",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Satdobato",
-      "City escape housing society",
-      "Godawari",
-      "Harisiddhi",
-      "Dhapakhel (Gems School)",
-      "Kumaripati",
-      "Jwalkhel, Lalitpur",
-      "Pulchowk",
-      "Pulchok",
-      "Langankhel",
-      "Dhapakhel Height",
-      "Dhapakhel (Gems bata 2 KM)"
+      {
+        "name": "Satdobato",
+        "latitude": "28.0036486",
+        "longitude": "85.1638055"
+      },
+      {
+        "name": "Godawari",
+        "latitude": "28.8624299",
+        "longitude": "80.5816392"
+      },
+      {
+        "name": "Harisiddhi",
+        "latitude": "27.6362720",
+        "longitude": "85.3402710"
+      },
+      {
+        "name": "Kumaripati",
+        "latitude": "27.6705227",
+        "longitude": "85.3207195"
+      },
+      {
+        "name": "Pulchowk",
+        "latitude": "27.6968581",
+        "longitude": "84.4211123"
+      },
+      {
+        "name": "Pulchok",
+        "latitude": "26.7356114",
+        "longitude": "85.9411038"
+      }
     ]
   },
   "6": {
@@ -104,15 +180,26 @@
     "driver_contact": "9762871720",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Dholahiti, Adarsha tole",
-      "Nakhipot, Tikedewar",
-      "Nakhipot",
-      "Sampang Chowk, Dholahiti",
-      "Tikhaidewal, Mahalaxmithan/ Talchikhel",
-      "Thashikhel, Lalitpur",
-      "Kupandol, Himalayan Hotel",
-      "Balkumari",
-      "Jhamsikhel"
+      {
+        "name": "Nakhipot",
+        "latitude": "27.6503928",
+        "longitude": "85.3207649"
+      },
+      {
+        "name": "Thashikhel, Lalitpur",
+        "latitude": "27.6628910",
+        "longitude": "85.3160199"
+      },
+      {
+        "name": "Balkumari",
+        "latitude": "27.6742358",
+        "longitude": "85.3862766"
+      },
+      {
+        "name": "Jhamsikhel",
+        "latitude": "27.6827881",
+        "longitude": "85.3021862"
+      }
     ]
   },
   "7": {
@@ -121,19 +208,21 @@
     "driver_contact": "9813866781",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Bhaisapatti, Radionepal Tower Karyavinayak",
-      "Bhaisipati, Khokana Dobato",
-      "Bhaisipati, Magar Gaun",
-      "Bhaisapatti, Medicity",
-      "Nakhu dobato",
-      "Sanepa, Phoneix School",
-      "Kirtipur",
-      "Kritipur, Nagau Dobato",
-      "Sita pump",
-      "Kalanki Chowk, Makalu Petrol Pump",
-      "Kalanki (Makalu Petrol Pump Lane)",
-      "Rabibhawan, KTM",
-      "Sanepa- Kalopul- Nabil Bank"
+      {
+        "name": "Nakhu dobato",
+        "latitude": "27.6688752",
+        "longitude": "85.3062936"
+      },
+      {
+        "name": "Kirtipur",
+        "latitude": "27.6766640",
+        "longitude": "85.2782438"
+      },
+      {
+        "name": "Sita pump",
+        "latitude": "27.6881403",
+        "longitude": "85.2867512"
+      }
     ]
   },
   "8": {
@@ -142,15 +231,26 @@
     "driver_contact": "N/A",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Naikap, Kalanki- Sipradi Trading",
-      "Kalanki",
-      "Tahachal",
-      "Angan, Tripureshwor",
-      "Bishnu Devi",
-      "Dahachowk, Chandragiri",
-      "Thankot World Link Tower",
-      "Tahachal, Soaltee hotel back gate",
-      "Kalanki Chowk, Makalu Petrol Pump"
+      {
+        "name": "Kalanki",
+        "latitude": "27.6956114",
+        "longitude": "85.2796064"
+      },
+      {
+        "name": "Tahachal",
+        "latitude": "27.6997580",
+        "longitude": "85.2941587"
+      },
+      {
+        "name": "Bishnu Devi",
+        "latitude": "27.6818085",
+        "longitude": "85.2615145"
+      },
+      {
+        "name": "Dahachowk, Chandragiri",
+        "latitude": "27.7027904",
+        "longitude": "85.2358779"
+      }
     ]
   },
   "9": {
@@ -159,18 +259,21 @@
     "driver_contact": "N/A",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Ramkot (Taukhel-Kota devi Marg)",
-      "Setoghar, Ramkot Sitapaila",
-      "Dada pauwal, Sitapaila, Kathmandu",
-      "Sitapaila Padma Colony",
-      "Sitapaila (Thapa Chowk )",
-      "Sitapaila Kailashbhawan/(Near By Thapa Chowk)",
-      "Sitapaila, Kailash Bhawan",
-      "Sitapaila Housing",
-      "Chhauni",
-      "Bafal",
-      "Tahachal",
-      "Tahachal, Dakshya Marg"
+      {
+        "name": "Chhauni",
+        "latitude": "27.7091335",
+        "longitude": "85.2903316"
+      },
+      {
+        "name": "Bafal",
+        "latitude": "27.7017723",
+        "longitude": "85.2879742"
+      },
+      {
+        "name": "Tahachal",
+        "latitude": "27.6997580",
+        "longitude": "85.2941587"
+      }
     ]
   },
   "10": {
@@ -179,21 +282,41 @@
     "driver_contact": "N/A",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Dhungedhara,",
-      "Radha Krishna Mandir, Banasthali",
-      "Bansthali",
-      "Bansathali Chowk-(Siddhartha Banasthali College Gate)",
-      "Banasthali (Karibot)",
-      "sorakhutta, Nayabazar",
-      "Nayabazzar Dhara",
-      "Banasthali",
-      "Balaju Height, Jayesh Grocery",
-      "Nayabazar",
-      "saurdeep boarding school, banasthali",
-      "Kharibot",
-      "Shorakhutta Chowk",
-      "Banasthali- kharibot",
-      "Banasthali,"
+      {
+        "name": "Dhungedhara,",
+        "latitude": "27.7242881",
+        "longitude": "85.2895043"
+      },
+      {
+        "name": "Bansthali",
+        "latitude": "27.7246726",
+        "longitude": "85.2974785"
+      },
+      {
+        "name": "Banasthali",
+        "latitude": "27.7249402",
+        "longitude": "85.2977635"
+      },
+      {
+        "name": "Nayabazar",
+        "latitude": "27.6745349",
+        "longitude": "85.2802426"
+      },
+      {
+        "name": "saurdeep boarding school, banasthali",
+        "latitude": "27.7264339",
+        "longitude": "85.2962378"
+      },
+      {
+        "name": "Kharibot",
+        "latitude": "28.1963924",
+        "longitude": "84.6465495"
+      },
+      {
+        "name": "Banasthali,",
+        "latitude": "27.7249402",
+        "longitude": "85.2977635"
+      }
     ]
   },
   "11": {
@@ -202,16 +325,16 @@
     "driver_contact": "N/A",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Manamaiju bridge, Tarkeshwor",
-      "Nepaltar bridge, Tarkeshwor",
-      "Bansathali Chowk- (Chaumati)",
-      "Balaju, Ganga hall",
-      "Sorakhutte, Kaldhara",
-      "Futung",
-      "Manamaiju, Bus Park",
-      "Payuitar, Tarkeshwor",
-      "Sesmati",
-      "Banasthali Chowk"
+      {
+        "name": "Futung",
+        "latitude": "27.7515426",
+        "longitude": "85.3088175"
+      },
+      {
+        "name": "Sesmati",
+        "latitude": "27.7440965",
+        "longitude": "85.3003106"
+      }
     ]
   },
   "12": {
@@ -220,21 +343,26 @@
     "driver_contact": "9862436193",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Suryadarshan Height,Grandy Hospital",
-      "Bhatkeko PulSuryadarshan Height",
-      "Indreni Pul, Jalpa Chowk,Tokha",
-      "Grandy Hospital",
-      "Gandy Hospital, Tokha",
-      "Tokha Bhatabheteni/ Grandy",
-      "Dhapasi, Bhatbhatini",
-      "Maharajgunj: Rastrapati Bhawan",
-      "Dhapasi, Grande Villa",
-      "Tokha road, Nepal CRS company",
-      "Tokha Swastik Colony",
-      "Dhapasi",
-      "Tokha",
-      "Bhatkeko pool, Tokha",
-      "Dhapasi height, Tokha"
+      {
+        "name": "Grandy Hospital",
+        "latitude": "26.9428234",
+        "longitude": "85.3092346"
+      },
+      {
+        "name": "Dhapasi",
+        "latitude": "27.7451935",
+        "longitude": "85.3291194"
+      },
+      {
+        "name": "Tokha",
+        "latitude": "27.7455698",
+        "longitude": "85.3264340"
+      },
+      {
+        "name": "Dhapasi height, Tokha",
+        "latitude": "27.7498625",
+        "longitude": "85.3380581"
+      }
     ]
   },
   "13": {
@@ -243,18 +371,36 @@
     "driver_contact": "9841724110",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Buddhanilkanta",
-      "Budhanilkantha, Chapali Height",
-      "Chappali ghumti(near 3star academy school)",
-      "Three star academy,Pasikot-4, Budhanilkantha",
-      "Hattigauda Chowk",
-      "Hattigauda, Milan Basti",
-      "Hattigauda",
-      "Bansbari",
-      "Golphutar",
-      "Sabrina Hotel,Budhanilkantha",
-      "Bansbari, Neuro Hospital",
-      "Hotel Sambala"
+      {
+        "name": "Hattigauda Chowk",
+        "latitude": "27.7570060",
+        "longitude": "85.3494245"
+      },
+      {
+        "name": "Hattigauda",
+        "latitude": "27.2134420",
+        "longitude": "85.9776263"
+      },
+      {
+        "name": "Bansbari",
+        "latitude": "27.7994120",
+        "longitude": "85.5614240"
+      },
+      {
+        "name": "Golphutar",
+        "latitude": "27.7482297",
+        "longitude": "85.3475649"
+      },
+      {
+        "name": "Sabrina Hotel,Budhanilkantha",
+        "latitude": "27.7615078",
+        "longitude": "85.3520140"
+      },
+      {
+        "name": "Hotel Sambala",
+        "latitude": "27.5063224",
+        "longitude": "83.4514796"
+      }
     ]
   },
   "14": {
@@ -263,18 +409,21 @@
     "driver_contact": "9810325792",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Samukoshi Redon School",
-      "Basundhara (Donut drool)",
-      "Gongabu, Bich Binayak Tole",
-      "Samakhusi Green City Hospital",
-      "Samakhusi Chowk",
-      "American Ambassy",
-      "Basundhara Chauki",
-      "Baluwatar, Shivapuri school",
-      "maharajgunj, Brazil Embessy",
-      "Yadav niwas, Dhapasi height, Deurali Janta Medicine factory",
-      "Bishal Nagar",
-      "Golfutar"
+      {
+        "name": "Basundhara Chauki",
+        "latitude": "27.7380222",
+        "longitude": "85.3252161"
+      },
+      {
+        "name": "Bishal Nagar",
+        "latitude": "27.6781676",
+        "longitude": "85.3459496"
+      },
+      {
+        "name": "Golfutar",
+        "latitude": "27.7751113",
+        "longitude": "85.3611981"
+      }
     ]
   },
   "15": {
@@ -283,14 +432,16 @@
     "driver_contact": "9802365669",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "डाफेडिल स्कूल",
-      "कपन, निलो पुल",
-      "चबिहेल सरसोतीनगर",
-      "गोपीकृष्ण हल",
-      "कपन सरस्वोती नगर",
-      "तेन्जिंग चोक, कपन",
-      "बत्तीसपुतली, द्वारिक होटेल )",
-      "बत्तीसपुतली"
+      {
+        "name": "डाफेडिल स्कूल",
+        "latitude": "27.7265389",
+        "longitude": "85.3553752"
+      },
+      {
+        "name": "बत्तीसपुतली",
+        "latitude": "27.7056762",
+        "longitude": "85.3415089"
+      }
     ]
   },
   "16": {
@@ -299,18 +450,16 @@
     "driver_contact": "9840338587",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Arubari, Pipalbot",
-      "Makalbari",
-      "Narayantar Pul",
-      "Jorpati (Warolo)",
-      "Boudha Gate",
-      "Boudha  Gate",
-      "Boudha gate",
-      "Gokarneshwr Vairab Chaur",
-      "Boudha Pipalbot",
-      "Chamundai School, Narayantar",
-      "Chabahil",
-      "Chabahil Pipal Bot( Telecom Office)"
+      {
+        "name": "Makalbari",
+        "latitude": "27.7307726",
+        "longitude": "85.3849380"
+      },
+      {
+        "name": "Chabahil",
+        "latitude": "27.7171756",
+        "longitude": "85.3466610"
+      }
     ]
   },
   "17": {
@@ -319,15 +468,16 @@
     "driver_contact": "9848071820",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Guheswori-08, Kathmandu",
-      "Guweshwori Temple",
-      "Nayabasti-Bagmati Corridore-Dibya Party Palace",
-      "Gaurighat",
-      "Danchhi, Nepal telecom inrary exchange vawan",
-      "Guheshwori, Gaurighat",
-      "Jaybageshwori mandir, Gaushala",
-      "Gaurighat, Dibya Party Palace",
-      "Makalbaari"
+      {
+        "name": "Guheswori-08, Kathmandu",
+        "latitude": "27.7118064",
+        "longitude": "85.3536801"
+      },
+      {
+        "name": "Gaurighat",
+        "latitude": "27.8816168",
+        "longitude": "83.9057919"
+      }
     ]
   },
   "18": {
@@ -336,19 +486,16 @@
     "driver_contact": "9709097313",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Gothatar S School(Birendra Chowk)",
-      "Birendra Chowk, Gothatar",
-      "Kandaghari",
-      "Birendra Chowk, Kadaghari",
-      "Pespicola Suncity Appartment",
-      "Gothatar School",
-      "Kadaghari Thapachowk",
-      "Kadaghari, Birendra chowk",
-      "Gothatar School, Tejbinayak Chowk",
-      "Mulpani chaur",
-      "Mulpani, Thapagaun",
-      "Gottahathar",
-      "Mulpani, Pipalbot"
+      {
+        "name": "Gothatar School",
+        "latitude": "27.7073275",
+        "longitude": "85.3768406"
+      },
+      {
+        "name": "Mulpani chaur",
+        "latitude": "27.7150308",
+        "longitude": "85.4060168"
+      }
     ]
   },
   "19": {
@@ -357,19 +504,26 @@
     "driver_contact": "9861774283",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Bir Hospital",
-      "Jamal",
-      "Pani Pokhara Bus Stop",
-      "Lajimpat Uttar Dhoka",
-      "Thamel",
-      "Lazimpat, Dhobichaur",
-      "Jamal, Durbarmarg",
-      "Trauma center, banjahity- 19",
-      "Bir Hospital, Trauma Center",
-      "Pabitra Workshop, Baluwatar,पवित्रा वोर्क्शोप बालुवाटार",
-      "Pabitra workshop, Baluwatar",
-      "Uttardhoka, Pani Pokhari",
-      "Civil Mall, Sundhara"
+      {
+        "name": "Bir Hospital",
+        "latitude": "27.7051958",
+        "longitude": "85.3137840"
+      },
+      {
+        "name": "Jamal",
+        "latitude": "27.7090068",
+        "longitude": "85.3160040"
+      },
+      {
+        "name": "Thamel",
+        "latitude": "27.7166578",
+        "longitude": "85.3127015"
+      },
+      {
+        "name": "Civil Mall, Sundhara",
+        "latitude": "27.6993742",
+        "longitude": "85.3126633"
+      }
     ]
   },
   "20": {
@@ -378,15 +532,21 @@
     "driver_contact": "9841529216",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Pepsicola",
-      "Pepsicola, Sundari Chowk",
-      "Pepsicola (Football Ground)",
-      "Lokanthali (Near Matribhumi school).",
-      "Lokanthali (Near Matribhumi school)",
-      "Lokanthali (Bhaktapur Nist School)",
-      "Maharjan chowk, Tikathali",
-      "Pespicola- (Bhaktapur Bridge)-Suncity Housing",
-      "Suncity Apartment"
+      {
+        "name": "Pepsicola",
+        "latitude": "27.6887901",
+        "longitude": "85.3667416"
+      },
+      {
+        "name": "Pepsicola (Football Ground)",
+        "latitude": "27.6917295",
+        "longitude": "85.3649000"
+      },
+      {
+        "name": "Suncity Apartment",
+        "latitude": "27.6927882",
+        "longitude": "85.3712973"
+      }
     ]
   },
   "21": {
@@ -395,18 +555,21 @@
     "driver_contact": "9829351082",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Annapurna chowk, Sano Bharyang",
-      "Sanobharyang",
-      "Swoyambhu, Karkhana Chowk",
-      "Sano Bharayang, Swastishree gurukul school",
-      "Swoyambhu-15",
-      "Sitapaila, Ringroad",
-      "Thulobharyang",
-      "Chhauni museum marg",
-      "Dhalku/ (Near by Chherapati)",
-      "Bijeshwori, Dalkhu",
-      "Dallu Pul",
-      "Chhauni (Acme College)"
+      {
+        "name": "Swoyambhu-15",
+        "latitude": "27.7137492",
+        "longitude": "85.3028827"
+      },
+      {
+        "name": "Sitapaila, Ringroad",
+        "latitude": "27.7072377",
+        "longitude": "85.2825515"
+      },
+      {
+        "name": "Chhauni museum marg",
+        "latitude": "27.7055000",
+        "longitude": "85.2891405"
+      }
     ]
   },
   "22": {
@@ -415,18 +578,16 @@
     "driver_contact": "9841071657",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Dhangar",
-      "Jana marg, Trimurti academy",
-      "Manakamana chowk, Sundarbasti",
-      "Sukedhara",
-      "SR Banquet, Dhumbarahi",
-      "Dhumbarehi",
-      "Chappal karkhana Chowk",
-      "Anamnagar",
-      "Ratopul, Fresh ktm vegetable store",
-      "Sifal Chowk",
-      "Pipalbot, Bansbari",
-      "US Embassay, Chakrapath"
+      {
+        "name": "Sukedhara",
+        "latitude": "27.7257596",
+        "longitude": "85.3443178"
+      },
+      {
+        "name": "Anamnagar",
+        "latitude": "27.6928490",
+        "longitude": "85.3284387"
+      }
     ]
   },
   "23": {
@@ -435,18 +596,31 @@
     "driver_contact": "9860039044",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Bishalnagar, Chandol",
-      "Hadigaun(Dabali Chowk, Saraswoti Mandir)",
-      "Hadigaun",
-      "Kamal Pokhari, Islington College",
-      "Peepalbot, Bagbazzar",
-      "Chandol",
-      "Handigaun",
-      "Chandol, nccs school",
-      "Mandikatar Height, Dhumbarai",
-      "Dhummbarahi, धुम्बाराही",
-      "Mandikatar Height, Bigmart",
-      "Naxal"
+      {
+        "name": "Hadigaun",
+        "latitude": "27.7178631",
+        "longitude": "85.3362474"
+      },
+      {
+        "name": "Islington College",
+        "latitude": "27.7075858",
+        "longitude": "85.3252165"
+      },
+      {
+        "name": "Chandol",
+        "latitude": "27.7293189",
+        "longitude": "85.3387731"
+      },
+      {
+        "name": "Handigaun",
+        "latitude": "27.7177403",
+        "longitude": "85.3360253"
+      },
+      {
+        "name": "Naxal",
+        "latitude": "27.7126782",
+        "longitude": "85.3287033"
+      }
     ]
   },
   "24": {
@@ -455,14 +629,21 @@
     "driver_contact": "9841827485",
     "school_contact": "9801066771, 9802356792",
     "pickup_locations": [
-      "Airpot Gate",
-      "kharikobot minbhawan",
-      "Sinamangal Chowk, (Guna Colony)",
-      "Guna Colony, Sinamangal",
-      "Omkareswor,Shantinagar",
-      "Shantinagar",
-      "Bhimsengola, ace college pachhadi",
-      "Bhimsengola"
+      {
+        "name": "Guna Colony, Sinamangal",
+        "latitude": "27.6966786",
+        "longitude": "85.3493845"
+      },
+      {
+        "name": "Shantinagar",
+        "latitude": "26.7994812",
+        "longitude": "88.0934858"
+      },
+      {
+        "name": "Bhimsengola",
+        "latitude": "27.6984859",
+        "longitude": "85.3435840"
+      }
     ]
   }
 }
